@@ -1,3 +1,0 @@
-# Decision One
-
-Lorem Ipsum
